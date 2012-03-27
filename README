@@ -14,4 +14,4 @@ Here's how to setup:
 
 5) Create a scheduled task to execute "php -f C:\Path_to_import_php_file.php". It's probably best to execute this during periods of low activity.
 
-6) And you're done! This is a good temporary solution until you can upgrade to MAS 200 SQL and replicate the data instead of mirroring :)
+6) And you're done! This is a good temporary solution until you can upgrade to MAS 200 SQL and replicate the data instead of mirroring (http://www.sagemas.com/Products/Sage-ERP-MAS-200-SQL)
